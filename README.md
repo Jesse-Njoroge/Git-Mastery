@@ -1,6 +1,6 @@
 # Git Mastery
 
-A collection of Git learning resources for developers at every level — from first commit to advanced collaboration.
+A collection of Git learning resources for developers at every level from first commit to advanced collaboration.
 
 ## Files
 
