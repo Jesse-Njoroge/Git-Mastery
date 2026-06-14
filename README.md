@@ -1,7 +1,7 @@
 # Git Mastery
 
 A collection of Git learning resources for developers at every level from first commit to advanced collaboration.
-Very important skill.
+Very important skill to master.
 
 ## Files
 
